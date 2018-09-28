@@ -1,3 +1,3 @@
 yourShow = (*Put your Show[] command here*);
 
-Manipulate[Show[yourShow, ViewPoint -> {viewDist Cos[tView], viewDist Sin[tView], viewHeight}, Boxed -> False, Axes -> None, PlotRange -> All], {{tView, 1.54, "Rotate around origin"}, 0, 2 Pi}, {{viewDist, .36, "Distance from 0,0,0 -> Tilt"}, 0, 5}, {{viewHeight, .76}, -10, 10}]
+Manipulate[Show[yourShow, ViewPoint -> {3.1384709652950433 Sin[tView], 3.1384709652950433 Cos[tView], viewHeight}, Boxed -> True, Axes -> True, PlotRange -> All], {{tView, 1.0358412530088001, "Rotate around origin"}, 0, 2 Pi}, {{viewHeight, CMView[[3]]}, -CMView[[3]], CMView[[3]]}]
