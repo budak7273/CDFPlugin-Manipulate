@@ -1,5 +1,12 @@
+# Use It Now!
+Copy the contents of either
+  + **[Basic Manipulate](https://raw.githubusercontent.com/budak7273/CDFPlugin-Manipulate/master/Basic_Manipulate)**, which supports rotating around the z axis, raising and lowering the viewpoint, and zooming.
+  + **[PitchZoom Manipulate](https://raw.githubusercontent.com/budak7273/CDFPlugin-Manipulate/master/PitchZoom_Manipulate)**, which all that Basic does plus view [pitching](https://goo.gl/sSxczV).
+
+into your Input Box
+
 # CDFPlugin-Manipulate
-Since the Mathematica CDF plugin is no longer supported, I have replicated some of the functionality in a Manipulate.
+Since the Mathematica CDF plugin is no longer supported, I have replicated some of the functionality in a Manipulate. Intended for use in CDF files, the Notebook, or a system such as U of I Courseware.
 
 
 # 'Magic Numbers' Explanation
