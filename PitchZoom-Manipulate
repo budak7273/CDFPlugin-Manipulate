@@ -1,0 +1,3 @@
+yourShow = (*Put your Show[] command here*);
+ 
+Manipulate[Show[yourShow, ViewPoint -> {3.1384709652950433 Sin[viewYaw], 3.1384709652950433 Cos[viewYaw], viewHeight}, ViewVertical -> {viewPitch, 0, 1}, ViewAngle -> 1 - viewAngle, Boxed -> True, Axes -> True, AxesLabel -> {x, y, z}, PlotRange -> All], {{viewYaw, 1.0358412530088001, "Rotate Around Center"}, 0, 2 Pi}, {{viewHeight, CMView[[3]], "View Height"}, -CMView[[3]], CMView[[3]]}, {{viewPitch, 0, "Pitch View"}, -Pi, Pi}, {{viewAngle, 0.47, "View Zoom"}, 0.001, .999}]
