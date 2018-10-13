@@ -11,3 +11,5 @@ Two sets of solutions exist, but we only care about the positive ones.
 
 See it in action here:
 https://www.desmos.com/calculator/w7vewp6w0f
+
+The initial value 0.47 of the zoom slider was determined through trial and error, checking what value looked 'close enough' to the zoom level that CMView positions the camera at.
