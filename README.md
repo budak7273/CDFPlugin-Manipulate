@@ -1,6 +1,7 @@
 # Use It Now!
 Copy the contents of either
   + **[Basic Manipulate](https://raw.githubusercontent.com/budak7273/CDFPlugin-Manipulate/master/Basic_Manipulate)**, which supports rotating around the z axis, raising and lowering the viewpoint, and zooming.
+  + **[Mason Edition](https://raw.githubusercontent.com/budak7273/CDFPlugin-Manipulate/master/Mason_Edition)**, similar to Basic Manipulate but uses [Euler Angles](https://www.youtube.com/watch?v=zZM2uUkEoFw&list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My&index=13) to calculate the view position.
   + **[PitchZoom Manipulate](https://raw.githubusercontent.com/budak7273/CDFPlugin-Manipulate/master/PitchZoom_Manipulate)**, which all that Basic does plus view [pitching](https://goo.gl/sSxczV).
 
 into your Input Box
