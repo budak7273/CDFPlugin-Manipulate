@@ -6,6 +6,9 @@ Copy the contents of one of the following into your Input Box. That's it - you'r
   + **[Mason Edition](https://raw.githubusercontent.com/budak7273/CDFPlugin-Manipulate/master/Mason_Edition)**, similar to Basic Manipulate but uses [Euler Angles](https://www.youtube.com/watch?v=zZM2uUkEoFw&list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My&index=13) to calculate the view position.
   + **[PitchZoom Manipulate](https://raw.githubusercontent.com/budak7273/CDFPlugin-Manipulate/master/PitchZoom_Manipulate)**, which all that Basic does plus view [pitching](https://goo.gl/sSxczV).
 
+---
+---
+
 # CDFPlugin-Manipulate
 ##### Made by Rob and Mason
 Since the Mathematica CDF plugin is no longer supported, we have replicated some of the functionality in a Manipulate. Intended for use in CDF files, the Notebook, or a system such as U of I Courseware.
