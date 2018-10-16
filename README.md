@@ -1,4 +1,4 @@
-<link rel="shortcut icon" type="image/png" href="/favicon.png">
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
 
 # Use It Now!
 Copy the contents of one of the following into your Input Box. That's it - you're set!
