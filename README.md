@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/png" href="/favicon.png">
+
 # Use It Now!
 Copy the contents of one of the following into your Input Box. That's it - you're set!
   + **[Basic Manipulate](https://raw.githubusercontent.com/budak7273/CDFPlugin-Manipulate/master/Basic_Manipulate)**, which supports rotating around the z axis, raising and lowering the viewpoint, and zooming.
