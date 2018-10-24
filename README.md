@@ -23,3 +23,11 @@ See it in action [here](https://www.desmos.com/calculator/w7vewp6w0f).
 
 
 The initial value 0.47 of the zoom slider was determined through trial and error, checking what value looked 'close enough' to the zoom level that CMView positions the camera at.
+
+# Learn More
+These links may be helpful if you'd like to help develop the CDF plugin.
+  + https://reference.wolfram.com/language/howto/RotateZoomAndPanGraphics.html
+  + https://reference.wolfram.com/language/ref/ViewVector.html
+  + https://reference.wolfram.com/language/ref/ViewPoint.html
+  + https://reference.wolfram.com/language/ref/ViewAngle.html
+  + https://reference.wolfram.com/language/ref/ViewVertical.html
