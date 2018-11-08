@@ -1,3 +1,7 @@
+# CDFPlugin-Manipulate
+##### Made by Rob and Mason
+Since the Mathematica CDF plugin is no longer supported, we have replicated some of the functionality in a Manipulate. Intended for use in CDF files, the Notebook (except that already has the functionality this provides), or a system such as U of I Courseware.
+
 # Use It Now!
 Copy the contents of one of the following into your Input Box. That's it - you're set!
   + **[Basic Manipulate](https://raw.githubusercontent.com/budak7273/CDFPlugin-Manipulate/master/Basic_Manipulate)**, which supports rotating around the z axis, raising and lowering the viewpoint, and zooming.
@@ -6,11 +10,6 @@ Copy the contents of one of the following into your Input Box. That's it - you'r
 
 ---
 ---
-
-# CDFPlugin-Manipulate
-##### Made by Rob and Mason
-Since the Mathematica CDF plugin is no longer supported, we have replicated some of the functionality in a Manipulate. Intended for use in CDF files, the Notebook, or a system such as U of I Courseware.
-
 
 # 'Magic Numbers' Explanation
 The viewpoint is based around CMView. The number 3.1384709652950433 is the radius of the circle in the XY plane centered at {0,0} that CMView ({2.7, 1.6, 1.2}) is located on. The preset rotation t value of 1.0358412530088001 is the t value on said circle that produces the point {2.7, 1.6}.
