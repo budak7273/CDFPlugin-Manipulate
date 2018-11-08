@@ -25,8 +25,8 @@ The initial value 0.47 of the zoom slider was determined through trial and error
 
 # Learn More
 These links may be helpful if you'd like to help develop the CDF plugin.
-  + https://reference.wolfram.com/language/howto/RotateZoomAndPanGraphics.html
-  + https://reference.wolfram.com/language/ref/ViewVector.html
-  + https://reference.wolfram.com/language/ref/ViewPoint.html
-  + https://reference.wolfram.com/language/ref/ViewAngle.html
-  + https://reference.wolfram.com/language/ref/ViewVertical.html
+  + [Wolfram Reference: RotateZoomAndPanGraphics](https://reference.wolfram.com/language/howto/RotateZoomAndPanGraphics.html)
+  + [Wolfram Reference: ViewVector](https://reference.wolfram.com/language/ref/ViewVector.html)
+  + [Wolfram Reference: ViewPoint](https://reference.wolfram.com/language/ref/ViewPoint.html)
+  + [Wolfram Reference: ViewAngle](https://reference.wolfram.com/language/ref/ViewAngle.html)
+  + [Wolfram Reference: ViewVertical](https://reference.wolfram.com/language/ref/ViewVertical.html)
