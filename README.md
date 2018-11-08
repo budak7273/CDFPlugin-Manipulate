@@ -1,6 +1,6 @@
 # CDFPlugin-Manipulate
 ##### Made by Rob and Mason
-Since the Mathematica CDF plugin is no longer supported, we have replicated some of the functionality in a Manipulate. Intended for use in CDF files, the Notebook (except that already has the functionality this provides), or a system such as U of I Courseware.
+Since the Mathematica CDF plugin is no longer supported, we have replicated the ability to move the camera around and zoom in on the output of Mathematica plots. Intended for use in CDF files, the Notebook, or a system such as U of I Courseware.
 
 # Use It Now!
 Copy the contents of one of the following into your Input Box. That's it - you're set!
