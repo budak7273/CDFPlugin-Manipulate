@@ -25,7 +25,7 @@ The initial value 0.47 of the zoom slider was determined through trial and error
 
 # Learn More
 These links may be helpful if you'd like to help develop the CDF plugin.
-  + [StackOverflow: Getting the plot range from Graphics object](https://mathematica.stackexchange.com/questions/78324/get-axes-range-of-plot)
+  + [StackOverflow: Get Axes Range of Plot?](https://mathematica.stackexchange.com/questions/78324/get-axes-range-of-plot)
   + [Wolfram Reference: RotateZoomAndPanGraphics](https://reference.wolfram.com/language/howto/RotateZoomAndPanGraphics.html)
   + [Wolfram Reference: ViewVector](https://reference.wolfram.com/language/ref/ViewVector.html)
   + [Wolfram Reference: ViewPoint](https://reference.wolfram.com/language/ref/ViewPoint.html)
